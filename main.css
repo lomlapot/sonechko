@@ -36,7 +36,7 @@ h1{
 	position: absolute;
 	top: 25%;
 	left: 5%;
-	transform: rotate(-40deg);
+	/*transform: rotate(-40deg);*/
 	
 }
 .sun{
